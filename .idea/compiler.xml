@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="redis-article" />
+        <module name="redis-cache" />
+        <module name="redis-login" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="redis-acricle" target="1.8" />
+      <module name="redis-article" target="1.8" />
+      <module name="redis-cache" target="1.8" />
+      <module name="redis-login" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="redis-acricle" options="-parameters" />
+      <module name="redis-article" options="-parameters" />
+      <module name="redis-cache" options="-parameters" />
+      <module name="redis-login" options="-parameters" />
+    </option>
+  </component>
+</project>
