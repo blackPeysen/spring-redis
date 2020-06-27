@@ -1,0 +1,8 @@
+
+squid:S00116"]Rename this field "is_anonymous_proxy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑæÕüÿÿÿÿ8·—Á­­.
+Œsquid:S00116"hRename this field "registered_country_geoname_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù¥°Úıÿÿÿÿ8îÀ­­.
+tsquid:S00116"URename this field "geoname_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª“í8‘Ô¿­­.
+squid:S00116"`Rename this field "is_satellite_provider" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ•³Ş8ÃÈÁ­­.
+squid:S00116"iRename this field "represented_country_geoname_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô®Öşıÿÿÿÿ8åçÀ­­.
+~squid:S00116!"ZRename this field "accuracy_radius" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÁâŞúÿÿÿÿ8Û”Â­­.
+usquid:S00116"VRename this field "postal_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛòÛ—8Û”Â­­.

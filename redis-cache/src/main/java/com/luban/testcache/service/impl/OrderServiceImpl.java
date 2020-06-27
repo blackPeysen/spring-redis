@@ -34,7 +34,6 @@ public class OrderServiceImpl implements OrderService{
     @Autowired
     RedisBloomFilter bloomFilter;
 
-
     @Autowired
     private RedisLock redisLock;
 

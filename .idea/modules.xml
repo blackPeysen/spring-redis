@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/redis-article/redis-article.iml" filepath="$PROJECT_DIR$/redis-article/redis-article.iml" />
       <module fileurl="file://$PROJECT_DIR$/redis-cache/redis-cache.iml" filepath="$PROJECT_DIR$/redis-cache/redis-cache.iml" />
-      <module fileurl="file://$PROJECT_DIR$/redis-login/redis-login.iml" filepath="$PROJECT_DIR$/redis-login/redis-login.iml" />
     </modules>
   </component>
 </project>

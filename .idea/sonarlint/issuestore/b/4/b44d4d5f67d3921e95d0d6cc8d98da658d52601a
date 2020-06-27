@@ -1,0 +1,9 @@
+
+rsquid:UselessImportCheck	"IRemove this unused import 'org.springframework.context.annotation.Scope'.(şè®€ÿÿÿÿÿ
+_squid:UselessImportCheck"6Remove this unused import 'redis.clients.jedis.Jedis'.(úœÅıÿÿÿÿ
+]squid:UselessImportCheck"9Remove this unused import 'redis.clients.jedis.Pipeline'.(‰İİ¾
+†squid:UselessImportCheck"]Remove this unused import 'org.springframework.data.redis.connection.RedisConnectionFactory'.(¬ÜôÍúÿÿÿÿ
+¬%squid:RedundantThrowsDeclarationCheckY"vRemove the declaration of thrown exception 'org.springframework.dao.DataAccessException' which is a runtime exception.(Š·ùóùÿÿÿÿ
+¬%squid:RedundantThrowsDeclarationCheckn"vRemove the declaration of thrown exception 'org.springframework.dao.DataAccessException' which is a runtime exception.(Š·ùóùÿÿÿÿ
+^squid:UselessImportCheck":Remove this unused import 'redis.clients.jedis.JedisPool'.(ì’†–
+Wsquid:S4719":Replace Charset.forName() call with StandardCharsets.UTF_8(§ˆå“øÿÿÿÿ

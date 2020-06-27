@@ -1,0 +1,5 @@
+
+osquid:CallToDeprecatedMethod(";Remove this use of "enableDefaultTyping"; it is deprecated.(ßà„ìüÿÿÿÿ8ñ´àÀ«.
+isquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(‹” œ8âƒ…Ë­.
+[squid:UselessImportCheck"0Remove this unused import 'java.io.InputStream'.(¹»º8Žë‚Ë­.
+isquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(ž¼¶Ð8ÝÉƒË­.

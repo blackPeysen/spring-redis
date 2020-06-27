@@ -1,0 +1,9 @@
+
+dsquid:S10754"ARefactor your code to get this URI from a customizable parameter.(но▐╥·    8▐ышлн.
+V
+squid:S106."9Replace this use of System.out or System.err by a logger.(А╙·ё8▐ышлн.
+V
+squid:S1067"9Replace this use of System.out or System.err by a logger.(╨╕С╛8▐ышлн.
+Fsquid:S1148-"#Use a logger to log this exception.(А╔╘Е¤    8▐ышлн.
+fsquid:S2095"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(ЯЬ│й
+^squid:S27890"@Methods with an "Optional" return type should never return null.(е╣яН8▐ышлн.

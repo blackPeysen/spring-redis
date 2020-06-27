@@ -1,0 +1,9 @@
+
+esquid:UselessImportCheck":Remove this unused import 'redis.clients.jedis.JedisPool'.(ì’†–8›ÑÀ«.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…Æş¢ùÿÿÿÿ
+gsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(Š‡ßÜùÿÿÿÿ
+_squid:UselessImportCheck"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8æÂÑÀ«.
+squid:UselessImportCheck"cRemove this unused import 'org.springframework.data.redis.connection.RedisStandaloneConfiguration'.(¾Ãå8æÂÑÀ«.
+“squid:UselessImportCheck"cRemove this unused import 'org.springframework.data.redis.connection.jedis.JedisConnectionFactory'.(¨áøşÿÿÿÿ8æÂÑÀ«.
+•squid:UselessImportCheck"eRemove this unused import 'org.springframework.data.redis.connection.jedis.JedisClientConfiguration'.(‡Ü¥Àûÿÿÿÿ8æÂÑÀ«.
+ksquid:UselessImportCheck"@Remove this unused import 'redis.clients.jedis.JedisPoolConfig'.(®¼£¾8æÂÑÀ«.

@@ -1,0 +1,20 @@
+
+osquid:ModifiersOrderCheck&"EReorder the modifiers to comply with the Java Language Specification.(ŞáÙıÿÿÿÿ
+N
+squid:S106c"9Replace this use of System.out or System.err by a logger.(ãõ{
+Jsquid:S1481Z"3Remove this unused "currentSeconds" local variable.(øÒÆ²
+Csquid:S1481k",Remove this unused "hashKey" local variable.(ÜÆ¤¾
+T
+squid:S106N"9Replace this use of System.out or System.err by a logger.(¢Å˜øÿÿÿÿ
+T
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ÜÁ±„şÿÿÿÿ
+_squid:S2583g"CChange this condition so that it does not always evaluate to "true"( ¶àÙÿÿÿÿÿ
+Usquid:S1155_">Use isEmpty() to check whether the collection is empty or not.(‚Š©•
+T
+squid:S106D"9Replace this use of System.out or System.err by a logger.(ğçÖøÿÿÿÿ
+T
+squid:S106R"9Replace this use of System.out or System.err by a logger.(ÜÁ±„şÿÿÿÿ
+T
+squid:S106h"9Replace this use of System.out or System.err by a logger.(Ç¼ñæÿÿÿÿÿ
+T
+squid:S106="9Replace this use of System.out or System.err by a logger.(¢Å˜øÿÿÿÿ

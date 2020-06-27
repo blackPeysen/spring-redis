@@ -1,0 +1,10 @@
+
+gsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(Ö¤´Èúÿÿÿÿ
+gsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(ýúÐ ùÿÿÿÿ
+bsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(Ì©„‚
+wsquid:UselessImportCheck"NRemove this unused import 'org.springframework.data.redis.core.RedisTemplate'.(–ª¡Çøÿÿÿÿ
+bsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(ƒÎÓ
+{squid:S1488,"_Immediately return this expression instead of assigning it to the temporary variable "integer".(‘òÎúÿÿÿÿ
+bsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ƒÎÓ
+bsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(Åë«å
+gsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(…Æ‚úÿÿÿÿ
